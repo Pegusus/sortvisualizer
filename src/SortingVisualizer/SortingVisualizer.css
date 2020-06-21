@@ -1,0 +1,35 @@
+.array-container {
+    position: absolute;
+    top: 35px;
+    left: 100px;
+    right: 100px;
+    box-shadow:
+        #000000 4px 4px 8px,
+        #4d4d4d -4px -4px 8px;
+}
+
+.array-bar {
+    width: 2px;
+    background-color: pink;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.GenerateButton {
+    position: absolute;
+    top: 20px;
+    color: beige;
+    background-color: #4d4d4d;
+    box-shadow:
+        #000000 4px 4px 8px,
+        #4d4d4d -4px -4px 8px;
+}
+.MergeSort {
+    position: relative;
+    top: 20px;
+    color: beige;
+    background-color: #4d4d4d;
+    box-shadow:
+        #000000 4px 4px 8px,
+        #4d4d4d -4px -4px 8px;
+}
